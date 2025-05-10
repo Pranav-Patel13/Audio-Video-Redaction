@@ -1,0 +1,17 @@
+<form action="/redact" method="POST" enctype="multipart/form-data">
+    <label>Upload Video:</label>
+    <input type="file" name="video" required><br><br>
+
+    <label>Upload Transcript JSON:</label>
+    <input type="file" name="json" required><br><br>
+
+    <label>Words to Redact (comma-separated):</label>
+    <input type="text" name="words" required><br><br>
+    
+    <!-- <label>Redaction Mode:</label>
+    <select name="mode">
+        <option value="beep">Beep</option>
+        <option value="silent">Silent</option>
+    </select><br> -->
+    <input type="submit" value="Redact Video">
+</form>

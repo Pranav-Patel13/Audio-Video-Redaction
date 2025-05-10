@@ -1,0 +1,7 @@
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_0.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_1.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_2.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_3.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_4.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_5.mp4'
+file 'D:/Study/Knovos_Company/Audio_Video_Redaction/segment_based_redaction/temp/segments/01_segment_6.mp4'

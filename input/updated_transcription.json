@@ -1,0 +1,1593 @@
+[
+    {
+        "start_time": 6.1000000000000005,
+        "end_time": 9.42,
+        "text": "Hello, I'm Georgie from BBC Learning English.",
+        "words": [
+            {
+                "word": " Hello,",
+                "start": 6.1000000000000005,
+                "end": 6.78,
+                "probability": 0.17869524657726288
+            },
+            {
+                "word": " I'm",
+                "start": 7.22,
+                "end": 7.42,
+                "probability": 0.9996235966682434
+            },
+            {
+                "word": " Georgie",
+                "start": 7.42,
+                "end": 7.84,
+                "probability": 0.9971664547920227
+            },
+            {
+                "word": " from",
+                "start": 7.84,
+                "end": 8.08,
+                "probability": 0.999748170375824
+            },
+            {
+                "word": " BBC",
+                "start": 8.08,
+                "end": 8.54,
+                "probability": 0.999909520149231
+            },
+            {
+                "word": " Learning",
+                "start": 8.54,
+                "end": 9.0,
+                "probability": 0.9960370659828186
+            },
+            {
+                "word": " English.",
+                "start": 9.0,
+                "end": 9.42,
+                "probability": 0.9998144507408142
+            }
+        ]
+    },
+    {
+        "start_time": 9.56,
+        "end_time": 11.76,
+        "text": "Thanks for listening to English in a Minute.",
+        "words": [
+            {
+                "word": " Thanks",
+                "start": 9.56,
+                "end": 10.24,
+                "probability": 0.999572217464447
+            },
+            {
+                "word": " for",
+                "start": 10.24,
+                "end": 10.44,
+                "probability": 0.9999761581420898
+            },
+            {
+                "word": " listening",
+                "start": 10.44,
+                "end": 10.74,
+                "probability": 0.9998646974563599
+            },
+            {
+                "word": " to",
+                "start": 10.74,
+                "end": 10.98,
+                "probability": 0.9998762607574463
+            },
+            {
+                "word": " English",
+                "start": 10.98,
+                "end": 11.3,
+                "probability": 0.9996626377105713
+            },
+            {
+                "word": " in",
+                "start": 11.3,
+                "end": 11.48,
+                "probability": 0.9556244611740112
+            },
+            {
+                "word": " a",
+                "start": 11.48,
+                "end": 11.58,
+                "probability": 0.9999041557312012
+            },
+            {
+                "word": " Minute.",
+                "start": 11.58,
+                "end": 11.76,
+                "probability": 0.9965881109237671
+            }
+        ]
+    },
+    {
+        "start_time": 12.08,
+        "end_time": 15.12,
+        "text": "This podcast is moving to a new home.",
+        "words": [
+            {
+                "word": " This",
+                "start": 12.08,
+                "end": 12.68,
+                "probability": 0.9995501637458801
+            },
+            {
+                "word": " podcast",
+                "start": 12.68,
+                "end": 13.08,
+                "probability": 0.9997619986534119
+            },
+            {
+                "word": " is",
+                "start": 13.08,
+                "end": 13.52,
+                "probability": 0.9999270439147949
+            },
+            {
+                "word": " moving",
+                "start": 13.52,
+                "end": 13.86,
+                "probability": 0.9996602535247803
+            },
+            {
+                "word": " to",
+                "start": 13.86,
+                "end": 14.12,
+                "probability": 0.9999805688858032
+            },
+            {
+                "word": " a",
+                "start": 14.12,
+                "end": 14.3,
+                "probability": 0.9999366998672485
+            },
+            {
+                "word": " new",
+                "start": 14.3,
+                "end": 14.62,
+                "probability": 0.9999606609344482
+            },
+            {
+                "word": " home.",
+                "start": 14.62,
+                "end": 15.12,
+                "probability": 0.9998829364776611
+            }
+        ]
+    },
+    {
+        "start_time": 15.44,
+        "end_time": 18.44,
+        "text": "Don't worry, you can still listen to new episodes.",
+        "words": [
+            {
+                "word": " Don't",
+                "start": 15.44,
+                "end": 16.0,
+                "probability": 0.9998195767402649
+            },
+            {
+                "word": " worry,",
+                "start": 16.0,
+                "end": 16.24,
+                "probability": 0.9999562501907349
+            },
+            {
+                "word": " you",
+                "start": 16.46,
+                "end": 16.54,
+                "probability": 0.9999634027481079
+            },
+            {
+                "word": " can",
+                "start": 16.54,
+                "end": 16.7,
+                "probability": 0.999990701675415
+            },
+            {
+                "word": " still",
+                "start": 16.7,
+                "end": 17.1,
+                "probability": 0.999948263168335
+            },
+            {
+                "word": " listen",
+                "start": 17.1,
+                "end": 17.46,
+                "probability": 0.9999152421951294
+            },
+            {
+                "word": " to",
+                "start": 17.46,
+                "end": 17.7,
+                "probability": 0.9999525547027588
+            },
+            {
+                "word": " new",
+                "start": 17.7,
+                "end": 17.92,
+                "probability": 0.9997044205665588
+            },
+            {
+                "word": " episodes.",
+                "start": 17.92,
+                "end": 18.44,
+                "probability": 0.9999196529388428
+            }
+        ]
+    },
+    {
+        "start_time": 18.72,
+        "end_time": 22.46,
+        "text": "Follow Learning English Vocabulary in your podcast app",
+        "words": [
+            {
+                "word": " Follow",
+                "start": 18.72,
+                "end": 19.38,
+                "probability": 0.9990984201431274
+            },
+            {
+                "word": " Learning",
+                "start": 19.38,
+                "end": 19.96,
+                "probability": 0.9807275533676147
+            },
+            {
+                "word": " English",
+                "start": 19.96,
+                "end": 20.36,
+                "probability": 0.999887228012085
+            },
+            {
+                "word": " Vocabulary",
+                "start": 20.36,
+                "end": 21.0,
+                "probability": 0.9736118912696838
+            },
+            {
+                "word": " in",
+                "start": 21.0,
+                "end": 21.42,
+                "probability": 0.9995009899139404
+            },
+            {
+                "word": " your",
+                "start": 21.42,
+                "end": 21.56,
+                "probability": 0.9998902082443237
+            },
+            {
+                "word": " podcast",
+                "start": 21.56,
+                "end": 22.12,
+                "probability": 0.9998617172241211
+            },
+            {
+                "word": " app",
+                "start": 22.12,
+                "end": 22.46,
+                "probability": 0.9998133778572083
+            }
+        ]
+    },
+    {
+        "start_time": 22.46,
+        "end_time": 25.52,
+        "text": "to find the latest episodes of English in a Minute",
+        "words": [
+            {
+                "word": " to",
+                "start": 22.46,
+                "end": 22.88,
+                "probability": 0.9989963173866272
+            },
+            {
+                "word": " find",
+                "start": 22.88,
+                "end": 23.08,
+                "probability": 0.9997430443763733
+            },
+            {
+                "word": " the",
+                "start": 23.08,
+                "end": 23.24,
+                "probability": 0.9999071359634399
+            },
+            {
+                "word": " latest",
+                "start": 23.24,
+                "end": 23.64,
+                "probability": 0.999701201915741
+            },
+            {
+                "word": " episodes",
+                "start": 23.64,
+                "end": 24.22,
+                "probability": 0.999788224697113
+            },
+            {
+                "word": " of",
+                "start": 24.22,
+                "end": 24.48,
+                "probability": 0.9996845722198486
+            },
+            {
+                "word": " English",
+                "start": 24.48,
+                "end": 24.88,
+                "probability": 0.9996716976165771
+            },
+            {
+                "word": " in",
+                "start": 24.88,
+                "end": 25.14,
+                "probability": 0.9996469020843506
+            },
+            {
+                "word": " a",
+                "start": 25.14,
+                "end": 25.26,
+                "probability": 0.9999716281890869
+            },
+            {
+                "word": " Minute",
+                "start": 25.26,
+                "end": 25.52,
+                "probability": 0.9991297125816345
+            }
+        ]
+    },
+    {
+        "start_time": 25.52,
+        "end_time": 28.82,
+        "text": "and more programmes to improve your English.",
+        "words": [
+            {
+                "word": " and",
+                "start": 25.52,
+                "end": 26.22,
+                "probability": 0.8622000217437744
+            },
+            {
+                "word": " more",
+                "start": 26.22,
+                "end": 27.0,
+                "probability": 0.9991973042488098
+            },
+            {
+                "word": " programmes",
+                "start": 27.0,
+                "end": 27.5,
+                "probability": 0.7690509557723999
+            },
+            {
+                "word": " to",
+                "start": 27.5,
+                "end": 27.8,
+                "probability": 0.9997699856758118
+            },
+            {
+                "word": " improve",
+                "start": 27.8,
+                "end": 28.16,
+                "probability": 0.9995693564414978
+            },
+            {
+                "word": " your",
+                "start": 28.16,
+                "end": 28.34,
+                "probability": 0.9998332262039185
+            },
+            {
+                "word": " English.",
+                "start": 28.34,
+                "end": 28.82,
+                "probability": 0.9990478157997131
+            }
+        ]
+    },
+    {
+        "start_time": 28.82,
+        "end_time": 33.32,
+        "text": "Or head to our website bbclearningenglish.com.",
+        "words": [
+            {
+                "word": " Or",
+                "start": 28.82,
+                "end": 29.72,
+                "probability": 0.059377361088991165
+            },
+            {
+                "word": " head",
+                "start": 29.72,
+                "end": 30.22,
+                "probability": 0.8652780055999756
+            },
+            {
+                "word": " to",
+                "start": 30.22,
+                "end": 30.38,
+                "probability": 0.9999926090240479
+            },
+            {
+                "word": " our",
+                "start": 30.38,
+                "end": 30.52,
+                "probability": 0.9999547004699707
+            },
+            {
+                "word": " website",
+                "start": 30.52,
+                "end": 31.0,
+                "probability": 0.9993622899055481
+            },
+            {
+                "word": " bbclearningenglish",
+                "start": 31.0,
+                "end": 32.6,
+                "probability": 0.9530097047487894
+            },
+            {
+                "word": ".com.",
+                "start": 32.6,
+                "end": 33.32,
+                "probability": 0.9995064735412598
+            }
+        ]
+    },
+    {
+        "start_time": 34.42,
+        "end_time": 36.1,
+        "text": "Let's learn schedule.",
+        "words": [
+            {
+                "word": " Let's",
+                "start": 34.42,
+                "end": 35.14,
+                "probability": 0.999146968126297
+            },
+            {
+                "word": " learn",
+                "start": 35.14,
+                "end": 35.6,
+                "probability": 0.9997528195381165
+            },
+            {
+                "word": " schedule.",
+                "start": 35.6,
+                "end": 36.1,
+                "probability": 0.8806385397911072
+            }
+        ]
+    },
+    {
+        "start_time": 36.46,
+        "end_time": 42.04,
+        "text": "It's a verb and a noun and you can say it as schedule or schedule.",
+        "words": [
+            {
+                "word": " It's",
+                "start": 36.46,
+                "end": 37.08,
+                "probability": 0.9992461502552032
+            },
+            {
+                "word": " a",
+                "start": 37.08,
+                "end": 37.2,
+                "probability": 0.9999827146530151
+            },
+            {
+                "word": " verb",
+                "start": 37.2,
+                "end": 37.62,
+                "probability": 0.9998809099197388
+            },
+            {
+                "word": " and",
+                "start": 37.62,
+                "end": 38.2,
+                "probability": 0.9974314570426941
+            },
+            {
+                "word": " a",
+                "start": 38.2,
+                "end": 38.36,
+                "probability": 0.9999797344207764
+            },
+            {
+                "word": " noun",
+                "start": 38.36,
+                "end": 38.64,
+                "probability": 0.9999886751174927
+            },
+            {
+                "word": " and",
+                "start": 38.64,
+                "end": 39.22,
+                "probability": 0.4587664306163788
+            },
+            {
+                "word": " you",
+                "start": 39.22,
+                "end": 39.36,
+                "probability": 0.9999819993972778
+            },
+            {
+                "word": " can",
+                "start": 39.36,
+                "end": 39.54,
+                "probability": 0.9999754428863525
+            },
+            {
+                "word": " say",
+                "start": 39.54,
+                "end": 39.86,
+                "probability": 0.9999619722366333
+            },
+            {
+                "word": " it",
+                "start": 39.86,
+                "end": 40.0,
+                "probability": 0.9998868703842163
+            },
+            {
+                "word": " as",
+                "start": 40.0,
+                "end": 40.32,
+                "probability": 0.9995914101600647
+            },
+            {
+                "word": " schedule",
+                "start": 40.32,
+                "end": 40.82,
+                "probability": 0.9892374277114868
+            },
+            {
+                "word": " or",
+                "start": 40.82,
+                "end": 41.48,
+                "probability": 0.9998267292976379
+            },
+            {
+                "word": " schedule.",
+                "start": 41.48,
+                "end": 42.04,
+                "probability": 0.9980713725090027
+            }
+        ]
+    },
+    {
+        "start_time": 42.58,
+        "end_time": 48.06,
+        "text": "As a noun, it can be a plan or a list of when things happen.",
+        "words": [
+            {
+                "word": " As",
+                "start": 42.58,
+                "end": 43.28,
+                "probability": 0.9997614026069641
+            },
+            {
+                "word": " a",
+                "start": 43.28,
+                "end": 43.42,
+                "probability": 0.9999635219573975
+            },
+            {
+                "word": " noun,",
+                "start": 43.42,
+                "end": 43.78,
+                "probability": 0.9999935626983643
+            },
+            {
+                "word": " it",
+                "start": 44.0,
+                "end": 44.36,
+                "probability": 0.9999626874923706
+            },
+            {
+                "word": " can",
+                "start": 44.36,
+                "end": 44.5,
+                "probability": 0.9999916553497314
+            },
+            {
+                "word": " be",
+                "start": 44.5,
+                "end": 44.66,
+                "probability": 0.9999934434890747
+            },
+            {
+                "word": " a",
+                "start": 44.66,
+                "end": 44.82,
+                "probability": 0.999994158744812
+            },
+            {
+                "word": " plan",
+                "start": 44.82,
+                "end": 45.26,
+                "probability": 0.9999223947525024
+            },
+            {
+                "word": " or",
+                "start": 45.26,
+                "end": 45.76,
+                "probability": 0.9997921586036682
+            },
+            {
+                "word": " a",
+                "start": 45.76,
+                "end": 45.92,
+                "probability": 0.9999946355819702
+            },
+            {
+                "word": " list",
+                "start": 45.92,
+                "end": 46.4,
+                "probability": 0.9999675750732422
+            },
+            {
+                "word": " of",
+                "start": 46.4,
+                "end": 46.78,
+                "probability": 0.9999697208404541
+            },
+            {
+                "word": " when",
+                "start": 46.78,
+                "end": 47.16,
+                "probability": 0.9999659061431885
+            },
+            {
+                "word": " things",
+                "start": 47.16,
+                "end": 47.7,
+                "probability": 0.9999493360519409
+            },
+            {
+                "word": " happen.",
+                "start": 47.7,
+                "end": 48.06,
+                "probability": 0.999832034111023
+            }
+        ]
+    },
+    {
+        "start_time": 48.56,
+        "end_time": 52.34,
+        "text": "According to the schedule, we start at nine tomorrow.",
+        "words": [
+            {
+                "word": " According",
+                "start": 48.56,
+                "end": 49.28,
+                "probability": 0.9997078776359558
+            },
+            {
+                "word": " to",
+                "start": 49.28,
+                "end": 49.58,
+                "probability": 0.9999916553497314
+            },
+            {
+                "word": " the",
+                "start": 49.58,
+                "end": 49.74,
+                "probability": 0.9995185136795044
+            },
+            {
+                "word": " schedule,",
+                "start": 49.74,
+                "end": 50.1,
+                "probability": 0.9998070597648621
+            },
+            {
+                "word": " we",
+                "start": 50.38,
+                "end": 50.7,
+                "probability": 0.9996631145477295
+            },
+            {
+                "word": " start",
+                "start": 50.7,
+                "end": 51.08,
+                "probability": 0.9998284578323364
+            },
+            {
+                "word": " at",
+                "start": 51.08,
+                "end": 51.3,
+                "probability": 0.9999641180038452
+            },
+            {
+                "word": " nine",
+                "start": 51.3,
+                "end": 51.74,
+                "probability": 0.7500675320625305
+            },
+            {
+                "word": " tomorrow.",
+                "start": 51.74,
+                "end": 52.34,
+                "probability": 0.9994927644729614
+            }
+        ]
+    },
+    {
+        "start_time": 52.64,
+        "end_time": 56.32,
+        "text": "Especially in American English, a schedule can tell you",
+        "words": [
+            {
+                "word": " Especially",
+                "start": 52.64,
+                "end": 53.24,
+                "probability": 0.9961275458335876
+            },
+            {
+                "word": " in",
+                "start": 53.24,
+                "end": 53.58,
+                "probability": 0.9999417066574097
+            },
+            {
+                "word": " American",
+                "start": 53.58,
+                "end": 54.2,
+                "probability": 0.9998711347579956
+            },
+            {
+                "word": " English,",
+                "start": 54.2,
+                "end": 54.58,
+                "probability": 0.9999091625213623
+            },
+            {
+                "word": " a",
+                "start": 54.74,
+                "end": 55.2,
+                "probability": 0.9993952512741089
+            },
+            {
+                "word": " schedule",
+                "start": 55.2,
+                "end": 55.52,
+                "probability": 0.9997360110282898
+            },
+            {
+                "word": " can",
+                "start": 55.52,
+                "end": 55.88,
+                "probability": 0.9999347925186157
+            },
+            {
+                "word": " tell",
+                "start": 55.88,
+                "end": 56.14,
+                "probability": 0.9999393224716187
+            },
+            {
+                "word": " you",
+                "start": 56.14,
+                "end": 56.32,
+                "probability": 0.9999799728393555
+            }
+        ]
+    },
+    {
+        "start_time": 56.32,
+        "end_time": 60.26,
+        "text": "when planes, trains and buses are planned to arrive at",
+        "words": [
+            {
+                "word": " when",
+                "start": 56.32,
+                "end": 56.54,
+                "probability": 0.9253638982772827
+            },
+            {
+                "word": " planes,",
+                "start": 56.54,
+                "end": 57.08,
+                "probability": 0.9862669706344604
+            },
+            {
+                "word": " trains",
+                "start": 57.28,
+                "end": 57.74,
+                "probability": 0.9989782571792603
+            },
+            {
+                "word": " and",
+                "start": 57.74,
+                "end": 58.0,
+                "probability": 0.880652904510498
+            },
+            {
+                "word": " buses",
+                "start": 58.0,
+                "end": 58.44,
+                "probability": 0.9475774168968201
+            },
+            {
+                "word": " are",
+                "start": 58.44,
+                "end": 59.06,
+                "probability": 0.9918262958526611
+            },
+            {
+                "word": " planned",
+                "start": 59.06,
+                "end": 59.32,
+                "probability": 0.9972290396690369
+            },
+            {
+                "word": " to",
+                "start": 59.32,
+                "end": 59.5,
+                "probability": 0.9982898831367493
+            },
+            {
+                "word": " arrive",
+                "start": 59.5,
+                "end": 59.94,
+                "probability": 0.9969059824943542
+            },
+            {
+                "word": " at",
+                "start": 59.94,
+                "end": 60.26,
+                "probability": 0.9966360330581665
+            }
+        ]
+    },
+    {
+        "start_time": 60.26,
+        "end_time": 62.06,
+        "text": "and depart from different places.",
+        "words": [
+            {
+                "word": " and",
+                "start": 60.26,
+                "end": 60.6,
+                "probability": 0.976100742816925
+            },
+            {
+                "word": " depart",
+                "start": 60.6,
+                "end": 60.96,
+                "probability": 0.9955195188522339
+            },
+            {
+                "word": " from",
+                "start": 60.96,
+                "end": 61.26,
+                "probability": 0.9972832202911377
+            },
+            {
+                "word": " different",
+                "start": 61.26,
+                "end": 61.54,
+                "probability": 0.9972882270812988
+            },
+            {
+                "word": " places.",
+                "start": 61.54,
+                "end": 62.06,
+                "probability": 0.9992197751998901
+            }
+        ]
+    },
+    {
+        "start_time": 62.9,
+        "end_time": 66.36,
+        "text": "The flight schedule says that we should be leaving at 10.15.",
+        "words": [
+            {
+                "word": " The",
+                "start": 62.66,
+                "end": 63.0,
+                "probability": 0.9660300612449646
+            },
+            {
+                "word": " flight",
+                "start": 63.0,
+                "end": 63.42,
+                "probability": 0.8724331855773926
+            },
+            {
+                "word": " schedule",
+                "start": 63.42,
+                "end": 63.8,
+                "probability": 0.9898882508277893
+            },
+            {
+                "word": " says",
+                "start": 63.8,
+                "end": 64.28,
+                "probability": 0.9952658414840698
+            },
+            {
+                "word": " that",
+                "start": 64.28,
+                "end": 64.52,
+                "probability": 0.9543277621269226
+            },
+            {
+                "word": " we",
+                "start": 64.52,
+                "end": 64.8,
+                "probability": 0.9911383986473083
+            },
+            {
+                "word": " should",
+                "start": 64.8,
+                "end": 64.94,
+                "probability": 0.998626708984375
+            },
+            {
+                "word": " be",
+                "start": 64.94,
+                "end": 65.12,
+                "probability": 0.9967819452285767
+            },
+            {
+                "word": " leaving",
+                "start": 65.12,
+                "end": 65.44,
+                "probability": 0.9984115362167358
+            },
+            {
+                "word": " at",
+                "start": 65.44,
+                "end": 65.76,
+                "probability": 0.998132050037384
+            },
+            {
+                "word": " 10",
+                "start": 65.76,
+                "end": 66.0,
+                "probability": 0.9823609590530396
+            },
+            {
+                "word": ".15.",
+                "start": 66.0,
+                "end": 66.36,
+                "probability": 0.7678404748439789
+            }
+        ]
+    },
+    {
+        "start_time": 66.74,
+        "end_time": 72.32,
+        "text": "As a verb, schedule means to plan for something to happen at a certain time.",
+        "words": [
+            {
+                "word": " As",
+                "start": 66.74,
+                "end": 67.34,
+                "probability": 0.9968045949935913
+            },
+            {
+                "word": " a",
+                "start": 67.34,
+                "end": 67.46,
+                "probability": 0.999739944934845
+            },
+            {
+                "word": " verb,",
+                "start": 67.46,
+                "end": 67.88,
+                "probability": 0.9995079040527344
+            },
+            {
+                "word": " schedule",
+                "start": 68.28,
+                "end": 68.66,
+                "probability": 0.9268741011619568
+            },
+            {
+                "word": " means",
+                "start": 68.66,
+                "end": 69.12,
+                "probability": 0.999440610408783
+            },
+            {
+                "word": " to",
+                "start": 69.12,
+                "end": 69.38,
+                "probability": 0.9927918910980225
+            },
+            {
+                "word": " plan",
+                "start": 69.38,
+                "end": 69.86,
+                "probability": 0.9974601864814758
+            },
+            {
+                "word": " for",
+                "start": 69.86,
+                "end": 70.14,
+                "probability": 0.9986907839775085
+            },
+            {
+                "word": " something",
+                "start": 70.14,
+                "end": 70.48,
+                "probability": 0.9997637867927551
+            },
+            {
+                "word": " to",
+                "start": 70.48,
+                "end": 70.68,
+                "probability": 0.9997137188911438
+            },
+            {
+                "word": " happen",
+                "start": 70.68,
+                "end": 71.0,
+                "probability": 0.999669075012207
+            },
+            {
+                "word": " at",
+                "start": 71.0,
+                "end": 71.52,
+                "probability": 0.9960606694221497
+            },
+            {
+                "word": " a",
+                "start": 71.52,
+                "end": 71.62,
+                "probability": 0.9994341731071472
+            },
+            {
+                "word": " certain",
+                "start": 71.62,
+                "end": 71.9,
+                "probability": 0.9997228980064392
+            },
+            {
+                "word": " time.",
+                "start": 71.9,
+                "end": 72.32,
+                "probability": 0.9998568296432495
+            }
+        ]
+    },
+    {
+        "start_time": 72.58,
+        "end_time": 77.8,
+        "text": "It's often used in the passive to talk about when things will or should happen.",
+        "words": [
+            {
+                "word": " It's",
+                "start": 72.58,
+                "end": 73.08,
+                "probability": 0.9920600652694702
+            },
+            {
+                "word": " often",
+                "start": 73.08,
+                "end": 73.54,
+                "probability": 0.9997367262840271
+            },
+            {
+                "word": " used",
+                "start": 73.54,
+                "end": 73.92,
+                "probability": 0.999729335308075
+            },
+            {
+                "word": " in",
+                "start": 73.92,
+                "end": 74.08,
+                "probability": 0.9996606111526489
+            },
+            {
+                "word": " the",
+                "start": 74.08,
+                "end": 74.18,
+                "probability": 0.9990532994270325
+            },
+            {
+                "word": " passive",
+                "start": 74.18,
+                "end": 74.54,
+                "probability": 0.9943776726722717
+            },
+            {
+                "word": " to",
+                "start": 74.54,
+                "end": 74.84,
+                "probability": 0.9995263814926147
+            },
+            {
+                "word": " talk",
+                "start": 74.84,
+                "end": 75.04,
+                "probability": 0.9997116923332214
+            },
+            {
+                "word": " about",
+                "start": 75.04,
+                "end": 75.22,
+                "probability": 0.9997625946998596
+            },
+            {
+                "word": " when",
+                "start": 75.22,
+                "end": 75.46,
+                "probability": 0.9995993971824646
+            },
+            {
+                "word": " things",
+                "start": 75.46,
+                "end": 75.74,
+                "probability": 0.999735414981842
+            },
+            {
+                "word": " will",
+                "start": 75.74,
+                "end": 76.1,
+                "probability": 0.9985377788543701
+            },
+            {
+                "word": " or",
+                "start": 76.1,
+                "end": 76.74,
+                "probability": 0.7938562035560608
+            },
+            {
+                "word": " should",
+                "start": 76.74,
+                "end": 77.14,
+                "probability": 0.9976595640182495
+            },
+            {
+                "word": " happen.",
+                "start": 77.14,
+                "end": 77.8,
+                "probability": 0.999596893787384
+            }
+        ]
+    },
+    {
+        "start_time": 77.8,
+        "end_time": 82.48,
+        "text": "The meeting was scheduled for 9.30, but everyone was late.",
+        "words": [
+            {
+                "word": " The",
+                "start": 77.8,
+                "end": 78.64,
+                "probability": 0.987704873085022
+            },
+            {
+                "word": " meeting",
+                "start": 78.64,
+                "end": 78.98,
+                "probability": 0.9998595714569092
+            },
+            {
+                "word": " was",
+                "start": 78.98,
+                "end": 79.36,
+                "probability": 0.9999195337295532
+            },
+            {
+                "word": " scheduled",
+                "start": 79.36,
+                "end": 79.78,
+                "probability": 0.9999743700027466
+            },
+            {
+                "word": " for",
+                "start": 79.78,
+                "end": 80.02,
+                "probability": 0.9999716281890869
+            },
+            {
+                "word": " 9",
+                "start": 80.02,
+                "end": 80.26,
+                "probability": 0.9861624240875244
+            },
+            {
+                "word": ".30,",
+                "start": 80.26,
+                "end": 80.64,
+                "probability": 0.9975660145282745
+            },
+            {
+                "word": " but",
+                "start": 80.9,
+                "end": 81.5,
+                "probability": 0.9999654293060303
+            },
+            {
+                "word": " everyone",
+                "start": 81.5,
+                "end": 81.84,
+                "probability": 0.9999288320541382
+            },
+            {
+                "word": " was",
+                "start": 81.84,
+                "end": 82.12,
+                "probability": 0.9999970197677612
+            },
+            {
+                "word": " late.",
+                "start": 82.12,
+                "end": 82.48,
+                "probability": 0.9999734163284302
+            }
+        ]
+    },
+    {
+        "start_time": 82.98,
+        "end_time": 87.66,
+        "text": "So, schedule or schedule is usually about time.",
+        "words": [
+            {
+                "word": " So,",
+                "start": 82.98,
+                "end": 83.7,
+                "probability": 0.9996393918991089
+            },
+            {
+                "word": " schedule",
+                "start": 84.16,
+                "end": 84.44,
+                "probability": 0.996355414390564
+            },
+            {
+                "word": " or",
+                "start": 84.44,
+                "end": 84.88,
+                "probability": 0.6984298229217529
+            },
+            {
+                "word": " schedule",
+                "start": 84.88,
+                "end": 85.3,
+                "probability": 0.9994237422943115
+            },
+            {
+                "word": " is",
+                "start": 85.3,
+                "end": 86.06,
+                "probability": 0.9989031553268433
+            },
+            {
+                "word": " usually",
+                "start": 86.06,
+                "end": 86.52,
+                "probability": 0.9999715089797974
+            },
+            {
+                "word": " about",
+                "start": 86.52,
+                "end": 87.04,
+                "probability": 0.9999808073043823
+            },
+            {
+                "word": " time.",
+                "start": 87.04,
+                "end": 87.66,
+                "probability": 0.999974250793457
+            }
+        ]
+    },
+    {
+        "start_time": 87.66,
+        "end_time": 90.24,
+        "text": "It's when things are planned to happen.",
+        "words": [
+            {
+                "word": " It's",
+                "start": 87.66,
+                "end": 88.26,
+                "probability": 0.999512791633606
+            },
+            {
+                "word": " when",
+                "start": 88.26,
+                "end": 88.66,
+                "probability": 0.9999886751174927
+            },
+            {
+                "word": " things",
+                "start": 88.66,
+                "end": 89.14,
+                "probability": 0.9999722242355347
+            },
+            {
+                "word": " are",
+                "start": 89.14,
+                "end": 89.28,
+                "probability": 0.9998422861099243
+            },
+            {
+                "word": " planned",
+                "start": 89.28,
+                "end": 89.74,
+                "probability": 0.999853253364563
+            },
+            {
+                "word": " to",
+                "start": 89.74,
+                "end": 89.94,
+                "probability": 0.9999817609786987
+            },
+            {
+                "word": " happen.",
+                "start": 89.94,
+                "end": 90.24,
+                "probability": 0.9999842643737793
+            }
+        ]
+    },
+    {
+        "start_time": 90.54,
+        "end_time": 94.04,
+        "text": "Make sure that practising English is on your schedule.",
+        "words": [
+            {
+                "word": " Make",
+                "start": 90.54,
+                "end": 91.02,
+                "probability": 0.9994970560073853
+            },
+            {
+                "word": " sure",
+                "start": 91.02,
+                "end": 91.3,
+                "probability": 0.9999897480010986
+            },
+            {
+                "word": " that",
+                "start": 91.3,
+                "end": 91.54,
+                "probability": 0.9990712404251099
+            },
+            {
+                "word": " practising",
+                "start": 91.54,
+                "end": 92.18,
+                "probability": 0.6903456747531891
+            },
+            {
+                "word": " English",
+                "start": 92.18,
+                "end": 92.54,
+                "probability": 0.9998425245285034
+            },
+            {
+                "word": " is",
+                "start": 92.54,
+                "end": 93.24,
+                "probability": 0.9999676942825317
+            },
+            {
+                "word": " on",
+                "start": 93.24,
+                "end": 93.4,
+                "probability": 0.9999686479568481
+            },
+            {
+                "word": " your",
+                "start": 93.4,
+                "end": 93.56,
+                "probability": 0.9999804496765137
+            },
+            {
+                "word": " schedule.",
+                "start": 93.56,
+                "end": 94.04,
+                "probability": 0.9998698234558105
+            }
+        ]
+    },
+    {
+        "start_time": 94.04,
+        "end_time": 99.58,
+        "text": "You're listening to bbclearningenglish.com",
+        "words": [
+            {
+                "word": " You're",
+                "start": 94.04,
+                "end": 95.86,
+                "probability": 0.7741028666496277
+            },
+            {
+                "word": " listening",
+                "start": 95.86,
+                "end": 96.26,
+                "probability": 0.9983035326004028
+            },
+            {
+                "word": " to",
+                "start": 96.26,
+                "end": 96.96,
+                "probability": 0.9725853800773621
+            },
+            {
+                "word": " bbclearningenglish",
+                "start": 96.96,
+                "end": 98.7,
+                "probability": 0.9853799740473429
+            },
+            {
+                "word": ".com",
+                "start": 98.7,
+                "end": 99.58,
+                "probability": 0.999740719795227
+            }
+        ]
+    },
+    {
+        "start_time": 99.58,
+        "end_time": 99.62,
+        "text": "You're listening to it when things are planned.",
+        "words": [
+            {
+                "word": " You're",
+                "start": 99.58,
+                "end": 99.58,
+                "probability": 0.15264182537794113
+            },
+            {
+                "word": " listening",
+                "start": 99.58,
+                "end": 99.58,
+                "probability": 0.03730790689587593
+            },
+            {
+                "word": " to",
+                "start": 99.58,
+                "end": 99.58,
+                "probability": 0.8213719725608826
+            },
+            {
+                "word": " it",
+                "start": 99.58,
+                "end": 99.58,
+                "probability": 0.003636369714513421
+            },
+            {
+                "word": " when",
+                "start": 99.58,
+                "end": 99.62,
+                "probability": 0.0027964862529188395
+            },
+            {
+                "word": " things",
+                "start": 99.62,
+                "end": 99.62,
+                "probability": 0.0005982447182759643
+            },
+            {
+                "word": " are",
+                "start": 99.62,
+                "end": 99.62,
+                "probability": 0.2018110603094101
+            },
+            {
+                "word": " planned.",
+                "start": 99.62,
+                "end": 99.62,
+                "probability": 0.0002379367797402665
+            }
+        ]
+    },
+    {
+        "start_time": 99.68,
+        "end_time": 99.68,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 101.84,
+        "end_time": 102.0,
+        "text": "Takes 14.",
+        "words": [
+            {
+                "word": " Takes",
+                "start": 101.84,
+                "end": 102.0,
+                "probability": 6.366597062879009e-06
+            },
+            {
+                "word": " 14.",
+                "start": 102.0,
+                "end": 102.0,
+                "probability": 9.3888993433211e-05
+            }
+        ]
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 102.0,
+        "end_time": 102.0,
+        "text": "",
+        "words": []
+    },
+    {
+        "start_time": 126.62,
+        "end_time": 127.92,
+        "text": "Shen",
+        "words": []
+    },
+    {
+        "start_time": 101.98,
+        "end_time": 101.98,
+        "text": "",
+        "words": []
+    }
+]

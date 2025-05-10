@@ -1,0 +1,614 @@
+[
+    {
+        "start_time": 0.0,
+        "end_time": 5.44,
+        "text": "Joe Anderson recently moved to New York and needed to update his contact details for various services.",
+        "words": [
+            {
+                "word": " Joe",
+                "start": 0.0,
+                "end": 0.3,
+                "probability": 0.9760417938232422
+            },
+            {
+                "word": " Anderson",
+                "start": 0.3,
+                "end": 0.7,
+                "probability": 0.996845543384552
+            },
+            {
+                "word": " recently",
+                "start": 0.7,
+                "end": 1.28,
+                "probability": 0.9988862872123718
+            },
+            {
+                "word": " moved",
+                "start": 1.28,
+                "end": 1.6,
+                "probability": 0.9999452829360962
+            },
+            {
+                "word": " to",
+                "start": 1.6,
+                "end": 1.74,
+                "probability": 0.9999940395355225
+            },
+            {
+                "word": " New",
+                "start": 1.74,
+                "end": 1.88,
+                "probability": 0.9998099207878113
+            },
+            {
+                "word": " York",
+                "start": 1.88,
+                "end": 2.18,
+                "probability": 0.9999252557754517
+            },
+            {
+                "word": " and",
+                "start": 2.18,
+                "end": 2.42,
+                "probability": 0.9998427629470825
+            },
+            {
+                "word": " needed",
+                "start": 2.42,
+                "end": 2.64,
+                "probability": 0.9999157190322876
+            },
+            {
+                "word": " to",
+                "start": 2.64,
+                "end": 2.82,
+                "probability": 0.9999940395355225
+            },
+            {
+                "word": " update",
+                "start": 2.82,
+                "end": 3.12,
+                "probability": 0.9999442100524902
+            },
+            {
+                "word": " his",
+                "start": 3.12,
+                "end": 3.34,
+                "probability": 0.9999595880508423
+            },
+            {
+                "word": " contact",
+                "start": 3.34,
+                "end": 3.72,
+                "probability": 0.9998061060905457
+            },
+            {
+                "word": " details",
+                "start": 3.72,
+                "end": 4.26,
+                "probability": 0.9999568462371826
+            },
+            {
+                "word": " for",
+                "start": 4.26,
+                "end": 4.48,
+                "probability": 0.9999217987060547
+            },
+            {
+                "word": " various",
+                "start": 4.48,
+                "end": 4.86,
+                "probability": 0.9986743927001953
+            },
+            {
+                "word": " services.",
+                "start": 4.86,
+                "end": 5.44,
+                "probability": 0.9998730421066284
+            }
+        ]
+    },
+    {
+        "start_time": 6.58,
+        "end_time": 14.94,
+        "text": "His new known number is 212-555-7890, and he uses joeanderson at gmail.com as his primary email.",
+        "words": [
+            {
+                "word": " His",
+                "start": 6.389999999999999,
+                "end": 6.74,
+                "probability": 0.999555766582489
+            },
+            {
+                "word": " new",
+                "start": 6.74,
+                "end": 6.9,
+                "probability": 0.9995980858802795
+            },
+            {
+                "word": " known",
+                "start": 6.9,
+                "end": 7.12,
+                "probability": 0.8939042091369629
+            },
+            {
+                "word": " number",
+                "start": 7.12,
+                "end": 7.44,
+                "probability": 0.9998111128807068
+            },
+            {
+                "word": " is",
+                "start": 7.44,
+                "end": 7.7,
+                "probability": 0.9998928308486938
+            },
+            {
+                "word": " 212",
+                "start": 7.7,
+                "end": 8.38,
+                "probability": 0.9720752239227295
+            },
+            {
+                "word": "-555",
+                "start": 8.38,
+                "end": 9.6,
+                "probability": 0.9938591321309408
+            },
+            {
+                "word": "-7890,",
+                "start": 9.6,
+                "end": 10.88,
+                "probability": 0.9992953737576803
+            },
+            {
+                "word": " and",
+                "start": 10.88,
+                "end": 11.54,
+                "probability": 0.9998052716255188
+            },
+            {
+                "word": " he",
+                "start": 11.54,
+                "end": 11.68,
+                "probability": 0.9999047517776489
+            },
+            {
+                "word": " uses",
+                "start": 11.68,
+                "end": 11.96,
+                "probability": 0.9998390674591064
+            },
+            {
+                "word": " joeanderson",
+                "start": 11.96,
+                "end": 12.6,
+                "probability": 0.9713015556335449
+            },
+            {
+                "word": " at",
+                "start": 12.6,
+                "end": 12.86,
+                "probability": 0.6586906313896179
+            },
+            {
+                "word": " gmail",
+                "start": 12.86,
+                "end": 13.24,
+                "probability": 0.9990440607070923
+            },
+            {
+                "word": ".com",
+                "start": 13.24,
+                "end": 13.78,
+                "probability": 0.9965773224830627
+            },
+            {
+                "word": " as",
+                "start": 13.78,
+                "end": 13.98,
+                "probability": 0.9993293285369873
+            },
+            {
+                "word": " his",
+                "start": 13.98,
+                "end": 14.12,
+                "probability": 0.9997275471687317
+            },
+            {
+                "word": " primary",
+                "start": 14.12,
+                "end": 14.52,
+                "probability": 0.9996227025985718
+            },
+            {
+                "word": " email.",
+                "start": 14.52,
+                "end": 14.94,
+                "probability": 0.9821104407310486
+            }
+        ]
+    },
+    {
+        "start_time": 15.48,
+        "end_time": 23.04,
+        "text": "For verification at the DMV, he provided his SSN 123-45-6789.",
+        "words": [
+            {
+                "word": " For",
+                "start": 15.48,
+                "end": 16.18,
+                "probability": 0.9997733235359192
+            },
+            {
+                "word": " verification",
+                "start": 16.18,
+                "end": 16.72,
+                "probability": 0.9996844530105591
+            },
+            {
+                "word": " at",
+                "start": 16.72,
+                "end": 17.14,
+                "probability": 0.9998181462287903
+            },
+            {
+                "word": " the",
+                "start": 17.14,
+                "end": 17.24,
+                "probability": 0.9998477697372437
+            },
+            {
+                "word": " DMV,",
+                "start": 17.24,
+                "end": 17.78,
+                "probability": 0.9997530877590179
+            },
+            {
+                "word": " he",
+                "start": 18.0,
+                "end": 18.26,
+                "probability": 0.999758780002594
+            },
+            {
+                "word": " provided",
+                "start": 18.26,
+                "end": 18.68,
+                "probability": 0.9999297857284546
+            },
+            {
+                "word": " his",
+                "start": 18.68,
+                "end": 18.9,
+                "probability": 0.9998093247413635
+            },
+            {
+                "word": " SSN",
+                "start": 18.9,
+                "end": 19.62,
+                "probability": 0.9952914714813232
+            },
+            {
+                "word": " 123",
+                "start": 19.62,
+                "end": 20.18,
+                "probability": 0.885087251663208
+            },
+            {
+                "word": "-45",
+                "start": 20.18,
+                "end": 21.5,
+                "probability": 0.9995643496513367
+            },
+            {
+                "word": "-6789.",
+                "start": 21.5,
+                "end": 23.04,
+                "probability": 0.9997019171714783
+            }
+        ]
+    },
+    {
+        "start_time": 23.88,
+        "end_time": 28.54,
+        "text": "Emily Carter works remotely for a tech startup and prefers communication via email.",
+        "words": [
+            {
+                "word": " Emily",
+                "start": 23.88,
+                "end": 24.58,
+                "probability": 0.9976118803024292
+            },
+            {
+                "word": " Carter",
+                "start": 24.58,
+                "end": 24.9,
+                "probability": 0.9998422861099243
+            },
+            {
+                "word": " works",
+                "start": 24.9,
+                "end": 25.26,
+                "probability": 0.9996317625045776
+            },
+            {
+                "word": " remotely",
+                "start": 25.26,
+                "end": 25.64,
+                "probability": 0.9999033212661743
+            },
+            {
+                "word": " for",
+                "start": 25.64,
+                "end": 25.86,
+                "probability": 0.9999775886535645
+            },
+            {
+                "word": " a",
+                "start": 25.86,
+                "end": 26.02,
+                "probability": 0.9995728135108948
+            },
+            {
+                "word": " tech",
+                "start": 26.02,
+                "end": 26.2,
+                "probability": 0.9987687468528748
+            },
+            {
+                "word": " startup",
+                "start": 26.2,
+                "end": 26.52,
+                "probability": 0.9916581511497498
+            },
+            {
+                "word": " and",
+                "start": 26.52,
+                "end": 26.76,
+                "probability": 0.999940037727356
+            },
+            {
+                "word": " prefers",
+                "start": 26.76,
+                "end": 27.08,
+                "probability": 0.9997113347053528
+            },
+            {
+                "word": " communication",
+                "start": 27.08,
+                "end": 27.78,
+                "probability": 0.9997237324714661
+            },
+            {
+                "word": " via",
+                "start": 27.78,
+                "end": 28.12,
+                "probability": 0.9844775199890137
+            },
+            {
+                "word": " email.",
+                "start": 28.12,
+                "end": 28.54,
+                "probability": 0.9986534118652344
+            }
+        ]
+    },
+    {
+        "start_time": 28.54,
+        "end_time": 38.84,
+        "text": "You can reach her at emilycarter at gmail.com, and for any emergency contact, her phone number is 415-555-1234.",
+        "words": [
+            {
+                "word": " You",
+                "start": 28.54,
+                "end": 29.72,
+                "probability": 0.9854873418807983
+            },
+            {
+                "word": " can",
+                "start": 29.72,
+                "end": 29.9,
+                "probability": 0.9998268485069275
+            },
+            {
+                "word": " reach",
+                "start": 29.9,
+                "end": 30.16,
+                "probability": 0.9997300505638123
+            },
+            {
+                "word": " her",
+                "start": 30.16,
+                "end": 30.3,
+                "probability": 0.9998512268066406
+            },
+            {
+                "word": " at",
+                "start": 30.3,
+                "end": 30.44,
+                "probability": 0.999922513961792
+            },
+            {
+                "word": " emilycarter",
+                "start": 30.44,
+                "end": 31.16,
+                "probability": 0.9881111085414886
+            },
+            {
+                "word": " at",
+                "start": 31.16,
+                "end": 31.38,
+                "probability": 0.9696503281593323
+            },
+            {
+                "word": " gmail",
+                "start": 31.38,
+                "end": 31.78,
+                "probability": 0.9994615316390991
+            },
+            {
+                "word": ".com,",
+                "start": 31.78,
+                "end": 32.44,
+                "probability": 0.9709212183952332
+            },
+            {
+                "word": " and",
+                "start": 32.56,
+                "end": 32.82,
+                "probability": 0.9992809891700745
+            },
+            {
+                "word": " for",
+                "start": 32.82,
+                "end": 32.96,
+                "probability": 0.9999302625656128
+            },
+            {
+                "word": " any",
+                "start": 32.96,
+                "end": 33.22,
+                "probability": 0.9999309778213501
+            },
+            {
+                "word": " emergency",
+                "start": 33.22,
+                "end": 33.72,
+                "probability": 0.9998201727867126
+            },
+            {
+                "word": " contact,",
+                "start": 33.72,
+                "end": 34.24,
+                "probability": 0.9999544620513916
+            },
+            {
+                "word": " her",
+                "start": 34.6,
+                "end": 34.84,
+                "probability": 0.9997684359550476
+            },
+            {
+                "word": " phone",
+                "start": 34.84,
+                "end": 35.08,
+                "probability": 0.999384880065918
+            },
+            {
+                "word": " number",
+                "start": 35.08,
+                "end": 35.38,
+                "probability": 0.9980473518371582
+            },
+            {
+                "word": " is",
+                "start": 35.38,
+                "end": 35.64,
+                "probability": 0.9998619556427002
+            },
+            {
+                "word": " 415",
+                "start": 35.64,
+                "end": 36.3,
+                "probability": 0.997220903635025
+            },
+            {
+                "word": "-555",
+                "start": 36.3,
+                "end": 37.76,
+                "probability": 0.9939425786336263
+            },
+            {
+                "word": "-1234.",
+                "start": 37.76,
+                "end": 38.84,
+                "probability": 0.9998115301132202
+            }
+        ]
+    },
+    {
+        "start_time": 40.08,
+        "end_time": 47.54,
+        "text": "She recently submitted her background check, which included her SSN 987-65-4321.",
+        "words": [
+            {
+                "word": " She",
+                "start": 39.86,
+                "end": 40.26,
+                "probability": 0.9995669722557068
+            },
+            {
+                "word": " recently",
+                "start": 40.26,
+                "end": 40.72,
+                "probability": 0.9999051094055176
+            },
+            {
+                "word": " submitted",
+                "start": 40.72,
+                "end": 41.18,
+                "probability": 0.9999606609344482
+            },
+            {
+                "word": " her",
+                "start": 41.18,
+                "end": 41.4,
+                "probability": 0.9999878406524658
+            },
+            {
+                "word": " background",
+                "start": 41.4,
+                "end": 41.8,
+                "probability": 0.9989736080169678
+            },
+            {
+                "word": " check,",
+                "start": 41.8,
+                "end": 42.24,
+                "probability": 0.9997072815895081
+            },
+            {
+                "word": " which",
+                "start": 42.56,
+                "end": 42.74,
+                "probability": 0.9994895458221436
+            },
+            {
+                "word": " included",
+                "start": 42.74,
+                "end": 43.14,
+                "probability": 0.9998927116394043
+            },
+            {
+                "word": " her",
+                "start": 43.14,
+                "end": 43.38,
+                "probability": 0.9999332427978516
+            },
+            {
+                "word": " SSN",
+                "start": 43.38,
+                "end": 44.1,
+                "probability": 0.992296040058136
+            },
+            {
+                "word": " 987",
+                "start": 44.1,
+                "end": 45.18,
+                "probability": 0.9196368157863617
+            },
+            {
+                "word": "-65",
+                "start": 45.18,
+                "end": 46.06,
+                "probability": 0.9997591972351074
+            },
+            {
+                "word": "-4321.",
+                "start": 46.06,
+                "end": 47.54,
+                "probability": 0.9976173837979635
+            }
+        ]
+    }
+]
